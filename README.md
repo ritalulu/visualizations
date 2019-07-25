@@ -5,8 +5,8 @@
 
   ## Model Performance
 
-1. [Terms in Model Performance Matrix]
-2. [Model Performance Visualization with Plotly]
+1. Terms in Model Performance Matrix (on JupyterLab)
+2. Model Performance Visualization with Plotly (on JupyterLab)
    
   ## AIS data features
 
