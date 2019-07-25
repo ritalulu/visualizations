@@ -5,8 +5,8 @@
 
   ## Model Performance
 
-1. [Terms in Model Performance Matrix](https://github.com/ritalulu/visualizations/blob/master/TermsinModelPerformanceMatrixTBI.md)
-2. [Model Performance Visualization with Plotly](https://nbviewer.jupyter.org/github/ritalulu/visulization_model_performance/blob/master/model_performance-5.ipynb)
+1. [Terms in Model Performance Matrix]
+2. [Model Performance Visualization with Plotly]
    
   ## AIS data features
 
